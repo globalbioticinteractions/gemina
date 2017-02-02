@@ -1,4 +1,7 @@
 { 
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
-  "format": "gemina"
+  "format": "gemina",
+  "resources": {
+    "gemina_search_2008-01-03.txt": "gemina_search_2008-01-03.txt"
+  }
 }
